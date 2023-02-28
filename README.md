@@ -1,5 +1,12 @@
 - Homework
     - Homework_01
+        - Ex2
+        
+        #### Напишите программу, которая на вход принимает два числа и выдает, какое число большее, а какое меньшее. | [Блок-схема](Homework/Homework_01/Ex2/diagramHW1_2.drawio.png) >>> [КОД](Homework/Homework_01/Ex2/Program.cs) 
+
+        - Ex4
+        - Ex6
+        - Ex8
     - Homework_02
 - Lecture
     - Lecture_01
