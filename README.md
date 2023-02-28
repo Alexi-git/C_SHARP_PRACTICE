@@ -9,6 +9,8 @@
         ##### Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел. | [Блок-схема](Homework/Homework_01/Ex4/diagramHW1_4.drawio.png) >>> [КОД](Homework/Homework_01/Ex4/Program.cs) 
 
         - Ex6
+
+        ##### Напишите программу, которая на вход принимает число и выдает, является ли оно чётным. | [Блок-схема](Homework/Homework_01/Ex6/diagramHW1_6.drawio.png) >>> [КОД](Homework/Homework_01/Ex6/Program.cs) 
         - Ex8
     - Homework_02
 - Lecture
