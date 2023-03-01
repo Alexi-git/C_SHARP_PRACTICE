@@ -12,6 +12,9 @@
 
         ##### Напишите программу, которая на вход принимает число и выдает, является ли оно чётным. | [Блок-схема](Homework/Homework_01/Ex6/diagramHW1_6.drawio.png) >>> [КОД](Homework/Homework_01/Ex6/Program.cs) 
         - Ex8
+
+        ##### Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N. | [Блок-схема](Homework/Homework_01/Ex8/diagramHW1_8.drawio.png) >>> [КОД](Homework/Homework_01/Ex8/Program.cs) 
+
     - Homework_02
 - Lecture
     - Lecture_01
