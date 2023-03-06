@@ -25,6 +25,22 @@
          [Блок-схема](Homework/Homework_01/Ex8/diagramHW1_8.drawio.png) >>> [КОД](Homework/Homework_01/Ex8/Program.cs) 
 
     - Homework_02
+        
+        - Ex10
+        _Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа._ 
+        
+        [Блок-схема](Homework/Homework_02/Ex10/diagramHW2_10.drawio.png) >>> [КОД](Homework/Homework_02/Ex10/Program.cs) 
+
+        - Ex13
+        _Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет._ 
+        
+        [Блок-схема](Homework/Homework_02/Ex13/diagramHW2_13.drawio.png) >>> [КОД](Homework/Homework_02/Ex13/Program.cs) 
+
+        - Ex15
+        _Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным._ 
+        
+        [Блок-схема](Homework/Homework_02/Ex15/diagramHW2_15.drawio.png) >>> [КОД](Homework/Homework_02/Ex15/Program.cs) 
+
 - Lecture
     - Lecture_01
     - Lecture_02

@@ -32,7 +32,7 @@ while (index < arr.Length)
         arrNew[indexNew] = arr[index];
         indexNew++;
     }
-     index++;   
+    index++;
 }
 
 // Метод печати массива:
