@@ -40,6 +40,23 @@
         _Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным._ 
         
         [Блок-схема](Homework/Homework_02/Ex15/diagramHW2_15.drawio.png) >>> [КОД](Homework/Homework_02/Ex15/Program.cs) 
+        
+        - Homework_03
+        
+        - Ex19
+        _Напишите метод(-ы), который принимает на вход пятизначное число и проверяет, является ли оно палиндромом._ 
+        
+        [Блок-схема](Homework/Homework_03/Ex19/diagramHW3_19.drawio.png) >>> [КОД](Homework/Homework_03/Ex19/Program.cs) 
+
+        - Ex21
+        _Напишите метод(-ы), который принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве._ 
+        
+        [Блок-схема](Homework/Homework_03/Ex21/diagramHW3_21.drawio.png) >>> [КОД](Homework/Homework_03/Ex21/Program.cs) 
+
+        - Ex23
+        _Напишите метод(-ы), который принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N._ 
+        
+        [Блок-схема](Homework/Homework_03/Ex23/diagramHW3_23.drawio.png) >>> [КОД](Homework/Homework_03/Ex23/Program.cs) 
 
 - Lecture
     - Lecture_01
