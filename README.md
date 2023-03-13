@@ -58,6 +58,23 @@
         
         [Блок-схема](Homework/Homework_03/Ex23/diagramHW3_23.drawio.png) >>> [КОД](Homework/Homework_03/Ex23/Program.cs) 
 
+        - Homework_04
+        
+        - Ex25
+        _Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B._ 
+        
+        [Блок-схема](Homework/Homework_04/Ex25/diagramHW4_25.drawio.png) >>> [КОД](Homework/Homework_04/Ex25/Program.cs) 
+
+        - Ex27
+        _Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе._ 
+        
+        [Блок-схема](Homework/Homework_04/Ex27/diagramHW4_27.drawio.png) >>> [КОД](Homework/Homework_04/Ex27/Program.cs) 
+
+        - Ex29
+        _Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран._ 
+        
+        [Блок-схема](Homework/Homework_04/Ex29/diagramHW4_29.drawio.png) >>> [КОД](Homework/Homework_04/Ex29/Program.cs) 
+
 - Lecture
     - Lecture_01
     - Lecture_02
